@@ -7,6 +7,7 @@ package javaapplication1;
 /**
  *
  * @author Home Krimy tarpara
+ this is software classs
  */
 public class JavaApplication1 {
 
